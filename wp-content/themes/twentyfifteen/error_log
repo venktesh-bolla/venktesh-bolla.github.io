@@ -1,0 +1,17 @@
+[25-Nov-2017 04:29:31 UTC] PHP Fatal error:  Call to undefined function _e() in /home/pklov/public_html/wp-content/themes/twentyfifteen/author-bio.php on line 12
+[25-Nov-2017 04:30:27 UTC] PHP Fatal error:  Call to undefined function _e() in /home/pklov/public_html/wp-content/themes/twentyfifteen/author-bio.php on line 12
+[25-Nov-2017 04:31:01 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/pklov/public_html/wp-content/themes/twentyfifteen/404.php on line 10
+[25-Nov-2017 04:34:01 UTC] PHP Fatal error:  Call to undefined function do_action() in /home/pklov/public_html/wp-content/themes/twentyfifteen/footer.php on line 23
+[26-Nov-2017 17:00:53 UTC] PHP Fatal error:  Call to undefined function the_ID() in /home/pklov/public_html/wp-content/themes/twentyfifteen/content-link.php on line 13
+[26-Nov-2017 19:17:40 UTC] PHP Fatal error:  Call to undefined function the_ID() in /home/pklov/public_html/wp-content/themes/twentyfifteen/content-link.php on line 13
+[29-Nov-2017 18:55:23 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/pklov/public_html/wp-content/themes/twentyfifteen/archive.php on line 19
+[29-Nov-2017 19:01:20 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/pklov/public_html/wp-content/themes/twentyfifteen/archive.php on line 19
+[29-Nov-2017 21:35:33 UTC] PHP Fatal error:  Call to undefined function the_ID() in /home/pklov/public_html/wp-content/themes/twentyfifteen/content-link.php on line 13
+[29-Nov-2017 21:41:21 UTC] PHP Fatal error:  Call to undefined function the_ID() in /home/pklov/public_html/wp-content/themes/twentyfifteen/content-link.php on line 13
+[01-Dec-2017 05:28:34 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/pklov/public_html/wp-content/themes/twentyfifteen/index.php on line 17
+[01-Dec-2017 05:35:24 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/pklov/public_html/wp-content/themes/twentyfifteen/index.php on line 17
+[01-Dec-2017 11:19:18 UTC] PHP Fatal error:  Call to undefined function _e() in /home/pklov/public_html/wp-content/themes/twentyfifteen/author-bio.php on line 12
+[01-Dec-2017 11:25:42 UTC] PHP Fatal error:  Call to undefined function _e() in /home/pklov/public_html/wp-content/themes/twentyfifteen/author-bio.php on line 12
+[01-Dec-2017 13:10:03 UTC] PHP Fatal error:  Call to undefined function the_ID() in /home/pklov/public_html/wp-content/themes/twentyfifteen/content.php on line 13
+[01-Dec-2017 13:16:20 UTC] PHP Fatal error:  Call to undefined function the_ID() in /home/pklov/public_html/wp-content/themes/twentyfifteen/content.php on line 13
+[23-Jan-2018 23:46:08 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/pklov/public_html/wp-content/themes/twentyfifteen/404.php on line 10

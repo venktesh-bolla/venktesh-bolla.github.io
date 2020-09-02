@@ -1,0 +1,24 @@
+[21-Feb-2016 09:25:24 UTC] WordPress database error Table 'ELKDD.elkdd_maxbuttonsv3' doesn't exist for query SELECT id,name,status,cache, basic, dimension, text, color, icon, border, gradient, container, meta, advanced, responsive from elkdd_maxbuttonsv3 limit 1 made by activate_plugin, do_action('activate_maxbuttons/maxbuttons.php'), call_user_func_array, maxInstall::activation_hook, maxInstall::activate_plugin, maxInstall::create_database_table, maxButton->__construct, maxButton->loadBlockClasses, do_action('mb_blockclassesloaded'), call_user_func_array, maxButtonsPlugin->check_database
+[21-Feb-2016 12:54:41 UTC] PHP Warning:  include(/home/pklov/public_html/wp-content/plugins/better-wp-security/better-wp-security.php): failed to open stream: No such file or directory in /home/pklov/public_html/wp-admin/includes/plugin.php on line 995
+[21-Feb-2016 12:54:41 UTC] PHP Warning:  include(): Failed opening '/home/pklov/public_html/wp-content/plugins/better-wp-security/better-wp-security.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/pklov/public_html/wp-admin/includes/plugin.php on line 995
+[21-Feb-2016 12:54:41 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'ITSEC_Core' not found in /home/pklov/public_html/wp-includes/plugin.php on line 525
+[21-Feb-2016 12:54:41 UTC] PHP Warning:  strpos(): Empty needle in /home/pklov/public_html/wp-includes/plugin.php on line 679
+[21-Feb-2016 12:54:41 UTC] PHP Warning:  strpos(): Empty needle in /home/pklov/public_html/wp-includes/plugin.php on line 679
+[21-Feb-2016 12:54:41 UTC] PHP Warning:  strpos(): Empty needle in /home/pklov/public_html/wp-includes/plugin.php on line 679
+[21-Feb-2016 12:54:41 UTC] PHP Warning:  strpos(): Empty needle in /home/pklov/public_html/wp-includes/plugin.php on line 679
+[21-Feb-2016 12:54:41 UTC] PHP Warning:  strpos(): Empty needle in /home/pklov/public_html/wp-includes/plugin.php on line 679
+[21-Feb-2016 12:54:41 UTC] PHP Warning:  strpos(): Empty needle in /home/pklov/public_html/wp-includes/plugin.php on line 679
+[21-Feb-2016 12:54:41 UTC] PHP Warning:  strpos(): Empty needle in /home/pklov/public_html/wp-includes/plugin.php on line 679
+[21-Feb-2016 12:54:41 UTC] PHP Warning:  strpos(): Empty needle in /home/pklov/public_html/wp-includes/plugin.php on line 679
+[21-Feb-2016 12:54:41 UTC] PHP Warning:  strpos(): Empty needle in /home/pklov/public_html/wp-includes/plugin.php on line 679
+[21-Feb-2016 12:54:42 UTC] PHP Warning:  strpos(): Empty needle in /home/pklov/public_html/wp-includes/plugin.php on line 679
+[21-Feb-2016 12:54:42 UTC] PHP Warning:  strpos(): Empty needle in /home/pklov/public_html/wp-includes/plugin.php on line 679
+[21-Feb-2016 12:54:42 UTC] PHP Warning:  strpos(): Empty needle in /home/pklov/public_html/wp-includes/plugin.php on line 679
+[21-Feb-2016 12:54:42 UTC] PHP Warning:  strpos(): Empty needle in /home/pklov/public_html/wp-includes/plugin.php on line 679
+[21-Feb-2016 12:54:42 UTC] PHP Warning:  strpos(): Empty needle in /home/pklov/public_html/wp-includes/plugin.php on line 679
+[21-Feb-2016 12:54:42 UTC] PHP Warning:  strpos(): Empty needle in /home/pklov/public_html/wp-includes/plugin.php on line 679
+[21-Feb-2016 12:54:42 UTC] PHP Warning:  strpos(): Empty needle in /home/pklov/public_html/wp-includes/plugin.php on line 679
+[21-Feb-2016 12:54:42 UTC] PHP Warning:  strpos(): Empty needle in /home/pklov/public_html/wp-includes/plugin.php on line 679
+[21-Feb-2016 12:54:42 UTC] PHP Warning:  strpos(): Empty needle in /home/pklov/public_html/wp-includes/plugin.php on line 679
+[21-Feb-2016 12:54:42 UTC] PHP Warning:  strpos(): Empty needle in /home/pklov/public_html/wp-includes/plugin.php on line 679
+[21-Feb-2016 12:54:42 UTC] PHP Warning:  strpos(): Empty needle in /home/pklov/public_html/wp-includes/plugin.php on line 679

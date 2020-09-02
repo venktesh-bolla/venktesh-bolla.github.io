@@ -1,0 +1,12 @@
+[29-Mar-2017 16:50:53 UTC] PHP Warning:  mysql_query(): MySQL server has gone away in /home/pklov/public_html/wp-includes/wp-db.php on line 1879
+[29-Mar-2017 16:50:54 UTC] PHP Warning:  mysql_query(): Error reading result set's header in /home/pklov/public_html/wp-includes/wp-db.php on line 1879
+[29-Mar-2017 16:50:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pklov/public_html/wp-includes/wp-db.php:1879) in /home/pklov/public_html/wp-includes/functions.php on line 3758
+[29-Mar-2017 16:51:07 UTC] PHP Warning:  mysql_query(): MySQL server has gone away in /home/pklov/public_html/wp-includes/wp-db.php on line 1879
+[29-Mar-2017 16:51:11 UTC] PHP Warning:  mysql_query(): Error reading result set's header in /home/pklov/public_html/wp-includes/wp-db.php on line 1879
+[29-Mar-2017 16:51:07 UTC] PHP Warning:  mysql_query(): MySQL server has gone away in /home/pklov/public_html/wp-includes/wp-db.php on line 1879
+[29-Mar-2017 16:51:11 UTC] PHP Warning:  mysql_query(): Error reading result set's header in /home/pklov/public_html/wp-includes/wp-db.php on line 1879
+[29-Mar-2017 16:51:07 UTC] PHP Warning:  mysql_query(): MySQL server has gone away in /home/pklov/public_html/wp-includes/wp-db.php on line 1879
+[29-Mar-2017 16:51:11 UTC] PHP Warning:  mysql_query(): Error reading result set's header in /home/pklov/public_html/wp-includes/wp-db.php on line 1879
+[29-Mar-2017 16:51:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pklov/public_html/wp-includes/wp-db.php:1879) in /home/pklov/public_html/wp-includes/functions.php on line 3758
+[29-Mar-2017 16:51:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pklov/public_html/wp-includes/wp-db.php:1879) in /home/pklov/public_html/wp-includes/functions.php on line 3758
+[29-Mar-2017 16:51:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pklov/public_html/wp-includes/wp-db.php:1879) in /home/pklov/public_html/wp-includes/functions.php on line 3758

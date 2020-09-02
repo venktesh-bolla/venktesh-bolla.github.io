@@ -1,0 +1,6 @@
+[17-Mar-2017 03:23:28 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/pklov/public_html/wp-content/themes/sydney/404.php on line 8
+[23-Mar-2017 16:37:44 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/pklov/public_html/wp-content/themes/sydney/404.php on line 8
+[30-Mar-2017 07:51:47 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/pklov/public_html/wp-content/themes/sydney/404.php on line 8
+[04-Jan-2018 20:54:14 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/pklov/public_html/wp-content/themes/sydney/404.php on line 8
+[06-Jan-2018 00:32:26 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/pklov/public_html/wp-content/themes/sydney/404.php on line 8
+[08-Jan-2018 09:45:46 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/pklov/public_html/wp-content/themes/sydney/404.php on line 8

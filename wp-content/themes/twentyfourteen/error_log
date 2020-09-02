@@ -1,0 +1,2 @@
+[10-Oct-2017 23:51:34 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/pklov/public_html/wp-content/themes/twentyfourteen/404.php on line 10
+[28-Jan-2018 18:58:01 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/pklov/public_html/wp-content/themes/twentyfourteen/404.php on line 10
